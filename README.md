@@ -119,10 +119,11 @@ pip install -r requirements.txt
 
 * * * * *
 
-### 5\. Configure the Bot
+### 5\. 🔧 Configure the Bot (IMPORTANT)
 
-Make sure your `config` folder is inside the project directory.
+Ensure the `config` folder is placed inside the project directory.
 
+This step is crucial to let the bot function properly. Here's a breakdown of the modules, required input files, and available settings.
 * * * * *
 
 ### 6\. Run with Screen (Recommended)
