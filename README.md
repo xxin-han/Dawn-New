@@ -92,7 +92,8 @@ Copy
 
 ```
 git clone https://github.com/xxin-han/Dawn-New.git
-unzip my_project.zip
+cd Dawn-New
+unzip Dawn-New.zip
 cd Dawn-New
 ```
 
@@ -103,8 +104,8 @@ cd Dawn-New
 Copy
 
 ```
-python3 -m venv venv
-source venv/bin/activate
+python -m venv env
+source env/bin/activate
 ```
 
 * * * * *
