@@ -27,7 +27,8 @@ A fully automated bot with modular architecture for registration, verification, 
 
 ```
 git clone https://github.com/xxin-han/Dawn-New.git
-unzip my_project.zip
+cd Dawn-New
+unzip Dawn-New.zip
 cd Dawn-New
 ```
 
