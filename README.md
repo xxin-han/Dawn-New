@@ -38,7 +38,7 @@ cd Dawn-New
 
 ```
 python -m venv venv
-venv\Scripts\activate
+venv\bin\activate
 ```
 
 * * * * *
