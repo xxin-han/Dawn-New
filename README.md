@@ -37,8 +37,8 @@ cd Dawn-New
 ### 3\. Create and Activate a Virtual Environment
 
 ```
-python -m venv venv
-source venv\bin\activate
+python -m venv env
+source env/bin/activate
 ```
 
 * * * * *
